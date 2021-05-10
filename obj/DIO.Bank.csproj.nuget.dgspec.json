@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/eliezer/sandbox/dio/DIO.Bank/DIO.Bank.csproj": {}
+    "/home/luizpaulolima/app_transferencia_bancaria/DIO.Bank.csproj": {}
   },
   "projects": {
-    "/home/eliezer/sandbox/dio/DIO.Bank/DIO.Bank.csproj": {
+    "/home/luizpaulolima/app_transferencia_bancaria/DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/eliezer/sandbox/dio/DIO.Bank/DIO.Bank.csproj",
+        "projectUniqueName": "/home/luizpaulolima/app_transferencia_bancaria/DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "/home/eliezer/sandbox/dio/DIO.Bank/DIO.Bank.csproj",
-        "packagesPath": "/home/eliezer/.nuget/packages/",
-        "outputPath": "/home/eliezer/sandbox/dio/DIO.Bank/obj/",
+        "projectPath": "/home/luizpaulolima/app_transferencia_bancaria/DIO.Bank.csproj",
+        "packagesPath": "/home/luizpaulolima/.nuget/packages/",
+        "outputPath": "/home/luizpaulolima/app_transferencia_bancaria/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/home/eliezer/.nuget/NuGet/NuGet.Config"
+          "/home/luizpaulolima/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
